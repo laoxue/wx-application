@@ -1,6 +1,6 @@
 ## demo小程序(仿App)
 ### 效果图
-![效果图](http://p7gn2ayr9.bkt.clouddn.com/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%88%E6%9E%9C%E5%9B%BE.gif)
+![效果图](./小程序效果图.gif)
 
 后台用node express搭建的简单接口。数据手动添加，后期也使用爬虫爬取。
 
