@@ -6,4 +6,5 @@
 
 开启localhost:4000 端口 接口地址 localhost:4000/api/article
 
+![api接口](http://p7gn2ayr9.bkt.clouddn.com/api%E6%8E%A5%E5%8F%A3.png)
 部分页面未完善，待添加，占坑：-）。
