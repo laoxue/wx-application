@@ -1,0 +1,32 @@
+<!--info.wxml-->
+<view class='page_row'>
+<swiper class="swiper" indicator-dots="true" autoplay="true" interval="5000" duration="1000">  
+      <block wx:for="{{banner}}" wx:for-index="index">  
+        <swiper-item class="swiper-items">
+        	<span class="title">{{item.banner_tit}}</span>
+          <image src="{{item.banner_src}}" class="slide-image" mode="aspectFill"/>  
+        </swiper-item>  
+      </block>  
+</swiper>
+
+<view class="article_box" style="margin-top:5px;" bindtap="article">
+	<view class="article" wx:for="{{article}}">
+		<image class="article_img" src="{{item.src}}"/>
+		<view class="article_hole">
+			<view class="article_title">
+			<text class="a_title">{{item.title}}</text>
+			</view>
+			<view class="article_date">
+				<text>{{item.date}}</text>
+				<text>{{item.local}}</text>
+			</view>
+		</view>	
+	</view>
+</view>
+<view class="weui-loadmore" hidden="{{isHideLoadMor}}">
+    <view class="weui-loading"></view>
+    <view class="weui-loadmore__tips">正在加载</view>
+  </view>
+<view>
+</view>
+</view>

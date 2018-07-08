@@ -1,0 +1,83 @@
+.home{
+  background: #e6e6e6;
+}
+.header_box{
+  width:100%;
+  height:160px;
+  background-image: url(http://p7gn2ayr9.bkt.clouddn.com/21511972_105051975000_2.jpg);
+}
+.header_box_top{
+  width:100%;
+  height:120px;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+  align-items:center;
+}
+.header_box_bottom{
+  width:100%;
+  height:40px;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+  align-items:center;
+}
+.header_box_pic{
+  width: 25%;
+  height: 90px;
+  background: white;
+  border-radius: 50%;
+}
+.header_box_phone{
+  color: white;
+}
+.header{
+  width: 100%;
+  height:100%;
+  border-radius: 50%;
+}
+
+.info_box{
+  width: 100%;
+  height: 180px;
+  /*background: red;*/
+  flex-direction:column;
+}
+.info{
+  width:100%;
+  height:45px; 
+  background: white;
+  border-bottom: 0.1px solid #f1f1f1;
+  /*background: white;*/
+  display: flex;
+  flex-direction:row;
+    justify-content:space-between;
+}
+.info_left{
+  width: 25%;
+  height: 100%;
+  display: flex;
+  flex-direction:row;
+    justify-content:space-between;
+}
+.icon{
+  width: 25%;
+  height: 100%;
+  padding: 6px;
+}
+.icon image{
+  width:70%;
+  height:43%;
+}
+.info_left text{
+  width: 75%;
+  height: 45px;
+  line-height: 45px;
+  vertical-align:middle;
+  font-size: 15px;
+  text-align: center
+}
+.info_right{
+  width: 10%;
+  height: 100%;
+}

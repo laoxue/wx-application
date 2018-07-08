@@ -1,0 +1,9 @@
+<view class="info_box">
+		<view class="info">
+			<view class="info_left">
+				<text>联系客服</text>
+			</view>
+			<view class="info_right" bindtap="myinfo">>
+			</view>
+		</view>
+</view>

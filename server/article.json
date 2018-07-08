@@ -1,0 +1,60 @@
+{
+	"article":[
+		{
+			"src":"http://p7gn2ayr9.bkt.clouddn.com/2.jpg",
+			"title":"【DIESEL星球 - 新闻速报】Haute Couture (高级定制) 还是 Hate Couture？",
+			"date":"2018-08-08",
+			"local":"VOGUE品牌",
+			"index":0
+		},
+		{
+			"src":"http://p7gn2ayr9.bkt.clouddn.com/3.jpg",
+			"title":"【速写CROQUIS】2018秋冬系列新闻稿",
+			"date":"2018-08-08",
+			"local":"品牌大赏",
+			"index":1
+		},
+		{
+    	    "src":"http://p7gn2ayr9.bkt.clouddn.com/01.jpg",
+      		"title":"EIDOS Moda Operandi Man 精心甄选EIDOS 2019春夏系列",
+      		"date":"2018-08-08",
+      		"local":"时尚前线",
+			"index":2
+    	},
+    	{
+      		"src":"http://p7gn2ayr9.bkt.clouddn.com/02.jpg",
+      		"title":"Dior迪奥二零一八秋冬高级订制系列",
+      		"date":"2018-08-08",
+      		"local":"时尚前线",
+			"index":3
+    	},
+		{
+			"src":"http://p7gn2ayr9.bkt.clouddn.com/4.jpg",
+			"title":"李宇春身着 Maison Margiela Artisanal 2018 春夏系列亮相北京演",
+			"date":"2018-08-08",
+			"local":"大视野",
+			"index":4
+		},
+		{
+			"src":"http://p7gn2ayr9.bkt.clouddn.com/5.jpg",
+			"title":"盟可睐MONCLER声明",
+			"date":"2018-08-08",
+			"local":"时尚前线"
+			,
+			"index":5
+		}
+	],
+	"banner":[
+			{
+				"banner_src":"http://p7gn2ayr9.bkt.clouddn.com/b1.jpg",
+				"banner_tit":"快时尚行业的救星是它？"
+			},
+			{
+				"banner_src":"http://p7gn2ayr9.bkt.clouddn.com/b2.jpg",
+				"banner_tit":"九牧王、卡宾、虎都等男装变革大刀挥像传统订货模式！"
+			},
+			{	
+				"banner_src":"http://p7gn2ayr9.bkt.clouddn.com/8.gif",
+				"banner_tit":"供应造就了快时尚霸王ZARA中国服企能追赶上么？"
+			}]
+}

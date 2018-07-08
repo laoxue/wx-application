@@ -1,0 +1,77 @@
+<!--home.wxml-->
+<view class="home">
+	<view class="header_box">
+		<view class="header_box_top">
+			<view class="header_box_pic">
+				<image class="header" src="http://p7gn2ayr9.bkt.clouddn.com/45435345.jpg"></image>
+			</view>
+		</view>
+		<view class="header_box_bottom">
+			<view class="header_box_phone">18646089250</view>
+		</view>
+	</view>
+	<view class="info_box">
+		<view class="info">
+			<view class="info_left">
+				<view class="icon">
+					<image src="images/我.png" class="icon"/>
+				</view>
+				<text>我的信息</text>
+			</view>
+			<view class="info_right" bindtap="myinfo">>
+			</view>
+		</view>
+		<view class="info">
+			<view class="info_left">
+				<view class="icon">
+					<image src="images/赞.png" class="icon"/>
+				</view>
+				<text>推荐好友</text>
+			</view>
+			<view class="info_right" bindtap="myfriend">>
+			</view>
+		</view>
+		<view class="info">
+			<view class="info_left">
+				<view class="icon">
+					<image src="images/意见.png" class="icon"/>
+				</view>
+				<text>意见反馈</text>
+			</view>
+			<view class="info_right" bindtap="adevice">>
+			</view>
+		</view>
+		<view class="info">
+			<view class="info_left">
+				<view class="icon">
+					<image src="images/客服.png" class="icon"/>
+				</view>
+				<text>联系客服</text>
+			</view>
+			<view class="info_right" bindtap="kefu" style="width:30%;line-height:45px;font-size:15px;text-align:center">18646089250
+			</view>
+		</view>
+	</view>
+	<view class="info_box" style="margin-top:15px;">
+		<view class="info">
+			<view class="info_left">
+				<view class="icon">
+					<image src="images/信息.png" class="icon"/>
+				</view>
+				<text>关于我们</text>
+			</view>
+			<view class="info_right" bindtap="about">>
+			</view>
+		</view>
+		<view class="info">
+			<view class="info_left">
+				<view class="icon">
+					<image src="images/设置.png" class="icon"/>
+				</view>
+				<text style="text-align: left;">设置</text>
+			</view>
+			<view class="info_right" bindtap="system">>
+			</view>
+		</view>
+	</view>
+</view>

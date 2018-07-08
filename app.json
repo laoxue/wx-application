@@ -1,0 +1,47 @@
+{
+  "pages":[
+    "pages/info/info",
+    "pages/brand/brand",
+    "pages/home/home",
+    "pages/search/search",
+    "pages/myinfo/myinfo",
+    "pages/myfriend/myfriend",
+    "pages/system/system",
+    "pages/advice/advice",
+    "pages/about/about",
+    "pages/kefu/kefu",
+    "pages/article/article"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "尺马",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar":{
+    "color":"#a9b7b7",
+    "selectedColor":"#ff7f12",
+    "borderStyle": "black",
+    "list":[
+      {
+        "pagePath":"pages/brand/brand",
+        "text":"品牌",
+        "iconPath":"/wximages/品牌.png",
+        "selectedIconPath":"/wximages/品牌.png"
+      },
+      {
+        "pagePath": "pages/info/info",
+        "text": "资讯",
+        "iconPath": "/wximages/资讯.png",
+        "selectedIconPath": "/wximages/资讯.png"
+      },
+      {
+        "pagePath": "pages/home/home",
+        "text": "我的",
+        "iconPath": "/wximages/我.png",
+        "selectedIconPath": "/wximages/我.png"
+      }
+    ]
+  }
+}
